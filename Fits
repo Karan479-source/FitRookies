@@ -1,0 +1,16 @@
+FitRookies
+│
+├── index.html       ← IMPORTANT
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── articles/
+├── about.html
+├── contact.html
+├── privacy.html
+├── terms.html
+├── disclaimer.html
+├── robots.txt
+├── sitemap.xml
+└── ads.txt
